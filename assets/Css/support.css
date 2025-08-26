@@ -36,7 +36,10 @@
     line-height:100%;
     letter-spacing:-0.16px;
   }
-
+   header .brain a
+   {
+    color: var(--text-color-dark);
+   }
   .headcenter nav ul{
     display:flex;
     gap:22px;
@@ -125,6 +128,7 @@
 {
     width: 854px;
     margin: 0 auto;
+    padding-left:135px;
 }
 
 .supportBody .text 

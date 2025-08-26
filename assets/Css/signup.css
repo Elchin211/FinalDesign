@@ -22,7 +22,10 @@
     padding: 30px 0px;
     color: var(--text-color-dark);
   }
-
+    header h3 a
+    {
+      color: var(--text-color-dark);
+    }
   .hero
   {
     height: 910px;
